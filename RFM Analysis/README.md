@@ -164,6 +164,9 @@ The supplied `.pbix` contains two report pages:
 
 The report definitions include measures/visuals for total customers, average transaction amount, and total Amount. The summary page also contains a narrative highlighting the 812 customers, 2,000 transactions, 59,851,600,000 total Amount, and concentration in Champions and At Risk H Value.
 
+## Credit Dataset 
+ ### Saya Charm Myae Aung(Anlytica)
+- [Dataset Link](https://www.kaggle.com/datasets/charmmyaeaung/raw-sales-dataset-for-rfm-customer-segmentation)
 ## Tools
 
 - Python: pandas, NumPy, Matplotlib, and Jupyter Notebook
